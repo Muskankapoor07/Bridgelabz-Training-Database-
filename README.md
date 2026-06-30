@@ -129,7 +129,7 @@ Database_JDBC_Projects
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Muskankapoor07/BridgeLabz-Training-Java-Programming.git
+git clone https://github.com/Muskankapoor07/Bridgelabz-Training-Database-.git
 ```
 
 ## 2. Open the Project
