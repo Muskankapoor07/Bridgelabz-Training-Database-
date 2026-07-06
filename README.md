@@ -224,7 +224,7 @@ During this training, I gained practical experience in:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Muskankapoor07/BridgeLabz-Training-Java-Programming.git
+git clone <your-repository-url>
 ```
 
 ## 2. Switch to the DBMS Branch
